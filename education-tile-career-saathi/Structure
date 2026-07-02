@@ -1,0 +1,85 @@
+education-tile-career-saathi/
+│
+├── 📄 README.md
+├── 📄 LICENSE
+├── 📄 .gitignore
+├── 📄 CONTRIBUTING.md
+│
+├── 📁 docs/
+│   ├── 📄 vision.md
+│   ├── 📄 roadmap.md
+│   ├── 📄 architecture.md
+│   ├── 📄 database-schema.md
+│   ├── 📄 api-specification.md
+│   ├── 📄 security-rules.md
+│   ├── 📄 ui-ux-guidelines.md
+│   ├── 📄 ai-integration.md
+│   └── 📄 testing-strategy.md
+│
+├── 📁 planning/
+│   ├── 📄 education-analysis.md
+│   ├── 📄 feature-list.md
+│   ├── 📄 module-breakdown.md
+│   ├── 📄 sprint-plan.md
+│   └── 📄 milestones.md
+│
+├── 📁 database/
+│   ├── 📄 firebase-structure.json
+│   ├── 📄 collections-design.md
+│   ├── 📄 indexing-plan.md
+│   └── 📄 sample-data.json
+│
+├── 📁 api/
+│   ├── 📄 auth-api.md
+│   ├── 📄 user-api.md
+│   ├── 📄 course-api.md
+│   ├── 📄 progress-api.md
+│   └── 📄 ai-api.md
+│
+├── 📁 ui-ux/
+│   ├── 📄 wireframes.md
+│   ├── 📄 navigation-flow.md
+│   ├── 📄 design-system.md
+│   ├── 📁 screens/
+│   │   ├── home.md
+│   │   ├── course-page.md
+│   │   ├── search-page.md
+│   │   ├── profile-page.md
+│   │   └── ai-assistant.md
+│
+├── 📁 features/
+│   ├── 📁 authentication/
+│   ├── 📁 courses/
+│   ├── 📁 search-system/
+│   ├── 📁 ai-recommendation/
+│   ├── 📁 progress-tracking/
+│   ├── 📁 notifications/
+│   └── 📁 bookmarks/
+│
+├── 📁 modules/
+│   ├── 📄 module-01-repo-structure.md
+│   ├── 📄 module-02-readme.md
+│   ├── 📄 module-03-education-doc.md
+│   ├── 📄 module-04-database.md
+│   ├── 📄 module-05-ui-design.md
+│   ├── 📄 module-06-navigation.md
+│   ├── 📄 module-07-api.md
+│   ├── 📄 module-08-firebase.md
+│   ├── 📄 module-09-ai-integration.md
+│   ├── 📄 module-10-search.md
+│   ├── 📄 module-11-course-db.md
+│   ├── 📄 module-12-security.md
+│   ├── 📄 module-13-testing.md
+│   ├── 📄 module-14-dev-guide.md
+│   └── 📄 module-15-production.md
+│
+├── 📁 assets/
+│   ├── 📁 images/
+│   ├── 📁 icons/
+│   └── 📁 branding/
+│
+└── 📁 tools/
+    ├── 📄 replit-prompts.md
+    ├── 📄 cursor-prompts.md
+    ├── 📄 ai-workflows.md
+    └── 📄 automation-ideas.md
